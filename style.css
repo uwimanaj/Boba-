@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fef3c7;
+  color: #1f2937;
+  padding: 2rem;
+}
+
+img {
+  width: 300px;
+  border-radius: 12px;
+  margin-top: 1rem;
+}
